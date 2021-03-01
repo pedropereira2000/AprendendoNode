@@ -3,5 +3,6 @@
 ##Repositorio pessoal montado especificamente para armazenar os arquivos dos cursos de node realizados.
 
 ###Realização do curso-1 (Udemy-node com mongedb)
-:page_with_curl: - [ok] projeto portal_noticias
+
+:page_with_curl: - [X] projeto portal_noticias
 :email: - [] projeto app_chat
