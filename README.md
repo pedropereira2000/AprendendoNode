@@ -4,6 +4,6 @@
 
   > Realização do curso-1 (Udemy-node com mongedb)
   
-   - [x] projeto portal_noticias :page_with_curl:
+   - [x] Projeto portal_noticias :page_with_curl:
    
-   - [ ] projeto app_chat :email:
+   - [ ] Projeto app_chat :email:
