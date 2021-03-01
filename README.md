@@ -2,8 +2,8 @@
 
  #### Repositorio pessoal montado especificamente para armazenar os arquivos dos cursos de node realizados.
 
-  > Realização do curso-1 (Udemy-node com mongedb)
+  > Branch curso-1, realização do curso da Udemy-node com mongedb [UDEMY](https://www.udemy.com/course/curso-completo-do-desenvolvedor-nodejs/)
   
-   - [x] Projeto portal_noticias :page_with_curl:
+  > - [x] Projeto portal_noticias :page_with_curl:
    
-   - [ ] Projeto app_chat :email:
+  > - [ ] Projeto app_chat :email:
