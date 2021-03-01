@@ -6,4 +6,4 @@
   
    - [x] projeto portal_noticias :page_with_curl:
    
-   - [] projeto app_chat :email:
+   - [ ] projeto app_chat :email:
