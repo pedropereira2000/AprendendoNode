@@ -8,6 +8,9 @@
    
   > - [x] Projeto app_chat :email:
 
-  > - [ ] Projeto com MongoDb :bank: 
+  > - [x] Projeto com MongoDb :bank: 
+
+  > - [ ] Projeto MMORPG GOT 🎲 
+
 
 
