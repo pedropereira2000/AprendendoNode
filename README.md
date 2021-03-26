@@ -6,4 +6,8 @@
   
   > - [x] Projeto portal_noticias :page_with_curl:
    
-  > - [ ] Projeto app_chat :email:
+  > - [x] Projeto app_chat :email:
+
+  > - [ ] Projeto com MongoDb :bank: 
+
+
